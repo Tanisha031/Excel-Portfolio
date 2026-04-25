@@ -1,4 +1,4 @@
-# 📊 Excel Portfolio
+# 📊 Excel Data Analysis Practice Portfolio
 
 ## 📌 Repository Description
 
@@ -16,6 +16,7 @@ The goal of this portfolio is to demonstrate hands-on experience in Excel for da
 This folder contains real-world and simulated datasets used for Excel practice and analysis. These datasets are designed to improve data handling, cleaning, and analytical skills.
 
 **Key datasets include:**
+
 - Healthcare (Patients, EHR, Insurance, Patient Monitoring, Churn Data)  
 - Sales & Business (Supermarket Sales, Orders, Sales Products, Pizza Sales)  
 - IT & Operations (Call Center, Inventory, Employee Management)  
@@ -25,11 +26,12 @@ This folder contains real-world and simulated datasets used for Excel practice a
 👉 Purpose: Build analytical thinking using real business scenarios.
 
 ---
-## 📂 2. Practice Files
+## 📂 2. Practice Files (My_Work)
 
 This folder includes guided Excel exercises and worksheets focused on foundational to advanced Excel concepts.
 
 **Topics covered:**
+
 - Formulas and Functions (SUMIF, COUNTIF, AVERAGEIF, IF, XLOOKUP)  
 - Data Cleaning and Sorting  
 - Filtering and Subtotals  
@@ -46,9 +48,10 @@ This folder includes guided Excel exercises and worksheets focused on foundation
 This folder contains structured Excel practice workbooks, weekly assignments, and exam-style exercises.
 
 **Includes:**
+
 - Week-wise practice sheets (Week 1–4)  
 - Common Excel queries exercises  
-- Portfolio project datasets  
+- Portfolio project dataset  
 
 👉 Purpose: Step-by-step learning progression from basics to applied analysis.
 
@@ -58,6 +61,7 @@ This folder contains structured Excel practice workbooks, weekly assignments, an
 This folder contains learning materials and reference guides for Excel.
 
 **Includes:**
+
 - Excel beginner to advanced manuals  
 - Data cleaning checklist  
 - Shortcut guides  
@@ -67,13 +71,18 @@ This folder contains learning materials and reference guides for Excel.
 👉 Purpose: Quick revision and concept clarity.
 
 ---
-## 📂 5. LICENSE & README
+## 📂 5. Projects & Dashboards
+This repository also includes real-world Excel projects and interactive dashboards developed using sales, business, and operational datasets.
+
+👉 Purpose: Practical implementation of Excel skills including KPI tracking, reporting, and dashboard creation for business decision-making.
+
+---
+## 📂 6. LICENSE & README
 
 - LICENSE file defines usage rights of the repository  
 - README.md provides an overview of the project and its structure  
 
 ---
-
 ## 🎯 Overall Learning Outcome
 
 Through this repository, I have developed practical skills in:
