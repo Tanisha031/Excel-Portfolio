@@ -1,4 +1,4 @@
-# 📊 Excel Data Analysis Practice Portfolio
+# 📊 Excel Portfolio
 
 ## 📌 Repository Description
 
